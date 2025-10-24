@@ -1,0 +1,3 @@
+1.  установить в теоминале "pip install python-telegram-bot" и "pip install requests"
+2.  я создал бота  t.me/college_ppk_helpbot, его API="7851159770:AAESg7CiW7wdIwZTQQuGETJrG6Qj1HSE4WA"
+3.
